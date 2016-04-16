@@ -37,7 +37,7 @@ You can select project output as jar file or local runnable. <br>
 2. Set environment of java <br>
 3. Go to eclipse <br>
 4. Right click import-> existing java project <br>
-5. Download all jars from https://drive.google.com/file/d/0B69V9spmLE3RbTlmaTR4R3dtSjA/view and add all jar files to your project <br>
+5. Download all jars from https://drive.google.com/file/d/0B69V9spmLE3RbTlmaTR4R3dtSjA/view?usp=sharing and add all jar files to your project <br>
 6. Once installation is done, run the project <br>
 7. Pass the input file to project and its ready to go. <br> 
 
