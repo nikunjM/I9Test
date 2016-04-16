@@ -1,0 +1,40 @@
+Big data and robotics appear to be on a perfect convergence path. For a number of years, one of the main challenges in robotics has been moving out of perfectly structured environments and into the "real world," characterized by its incredible range of possible tasks and situations. From autonomous cars to mobile manipulators, new big data methods have the potential to allow robots to understand and operate in significantly more complex environments than was possible even in the recent past. At the same time, robots are embodied agents that have the possibility to interact with the environment. Thereby, they can collect far richer data sets than traditional, strictly passive or even active (viewpoint-changing) sensors. Such a virtuous cycle could lead to quantum leaps in robotics and big data. How far along are we on the way of fulfilling this seemingly great potential? What has been achieved, and what great challenges lie ahead?
+
+This Big Data journal special issue on Robotics, scheduled for publication in December of 2016, will showcase research in which robotics and big data converge to solve new problems and demonstrate applicability to new domains. The special issue has a primary aim to describe and discuss:
+
+    Successful examples of using big data in robotics to achieve new capabilities and operate in increasingly more complex environments.
+    The use of robots as sensor platforms that interact with the world and collect rich, multi-modal data sets, containing features and patterns relevant to robotic tasks and beyond.
+    The interplay between sensing and action, at a large scale and with real-world applications.
+    The tradeoff between purely data-driven methods, potentially requiring very large training datasets, and model-driven approaches, relying on prior knowledge and existing problem structure.
+
+The work to be highlighted in this Big Data journal special issue should demonstrate impact and potential for significant advances in both fields. Papers that focus on real problems, use real data, and are deployed in real settings (or are in the process of being deployed) are especially welcome.
+
+Areas of focus include, but are not limited to:
+
+    Learning on big data, and its applications in robotics: batch versus incremental learning, reinforcement learning, and other related approaches
+    Simulated datasets as a way to bootstrap learning on real data in the context of robotics
+    Active and interactive perception
+    Datasets containing real-world, multi-modal data of robotic tasks and scenarios
+    Application domains, such as autonomous driving, e-commerce, logistics, assistive and rehabilitation robotics, domestic robots, etc.
+
+We invite papers ranging from new theoretical approaches and models to case studies and demonstrations of applications to new domains. We also accept well-articulated and thorough position papers that highlight existing challenges and/or propose future solutions at the interface between big data and robotics. We encourage institutions and organizations that may not typically write research papers to submit to this special issue. In addition to submissions from academia and corporations, we encourage submissions from government agencies, non-profits, and foundations.
+
+Big Data is a highly innovative, peer-reviewed journal, provides a unique forum for world-class research exploring the challenges and opportunities in collecting, analyzing, and disseminating vast amounts of data, including data science, big data infrastructure and analytics, and pervasive computing.
+
+Advantages of publishing in Big Data include:
+
+    Big Data is indexed in Thomson Reuters Emerging Sources Citation Index
+    Attractive open access options
+    Fast and user-friendly electronic submission
+    Rapid, high-quality peer review
+    Global press releases highlighting key findings
+    Maximum exposure: accessible in 170 countries worldwide
+
+
+
+
+Jennifers quis bibendum risus. Donec sed ipsum faucibus, iaculis ipsum nec, ultricies quam. Phasellus ut ex bibendum, egestas elit ac, vehicula leo. Donec vel orci convallis, gravida sapien varius, gravida arcu. Nullam pharetra placerat ante, sit amet sagittis turpis tincidunt eget. Suspendisse in diam et dui fringilla sodales nec sed tellus. Sed ac cursus sem. Integer rutrum, libero eget iaculis maximus, nisl lectus lacinia enim, et feugiat sem ex et tellus. Fusce pellentesque felis augue, eu sagittis velit consectetur eget. Maecenas convallis vulputate ligula quis faucibus. Proin nulla odio, iaculis vel mauris dapibus, ultricies semper nibh. Curabitur aliquet volutpat magna sed accumsan. Aenean in justo vitae arcu laoreet egestas et vitae nulla. Proin luctus ipsum quis sem finibus, pharetra accumsan arcu molestie. Proin convallis, urna vitae mattis scelerisque, lacus erat tempus nunc, eu finibus ante leo at nisi. Sed eu eros sed justo blandit interdum quis non nisl. Sed sit amet ligula ante. Ut fermentum mi sit amet luctus rutrum. Etiam auctor orci et consectetur efficitur. Aenean elementum elit quis lorem cursus ultrices. Cras efficitur quis mauris in maximus. Nunc mi libero, viverra eu ipsum sit amet, tristique viverra ipsum. Pellentesque ut tellus nec mauris fermentum ullamcorper. Duis iaculis quis dui hendrerit tincidunt. Phasellus sit amet consectetur eros, in hendrerit dui. Proin ornare lectus vel tortor accumsan, at pharetra enim gravida. Fusce luctus urna vehicula, interdum libero quis, gravida arcu. Sed facilisis convallis metus quis efficitur. Vivamus pulvinar nunc vitae purus fringilla, vel convallis velit suscipit. Integer venenatis ipsum justo, id iaculis nibh dignissim nec. Integer eget augue tortor. Sed sit amet accumsan urna, in mattis justo. Etiam id lorem pulvinar, placerat mi sed, pharetra justo. Curabitur iaculis ipsum vitae tellus porttitor, nec gravida dolor tincidunt. Nunc ultricies velit in nibh auctor fringilla. Vestibulum leo justo, vestibulum iaculis sem ac, laoreet aliquam arcu. Nam luctus iaculis ante, a tristique nibh cursus eget. Nullam sit amet risus tempus, ultrices urna non, facilisis turpis. Vestibulum maximus leo velit, sodales imperdiet urna rhoncus pharetra. Vestibulum in risus sit amet leo faucibus sodales id eu elit. Pellentesque lacinia auctor lectus, sed tempus justo gravida nec. Aenean hendrerit, ipsum sit amet consequat ornare, orci nisl ultrices orci, eu semper sapien nibh id tellus. Duis dapibus, orci quis sollicitudin ultrices, lectus quam lacinia arcu, et iaculis ipsum mauris imperdiet ante. Suspendisse id nisi rhoncus, condimentum turpis quis, egestas ex. Nulla facilisi. Integer tempor in elit id pulvinar. Vestibulum ut pulvinar velit. Phasellus rutrum consectetur mi, ut venenatis enim rhoncus sed. Praesent diam erat, porta nec neque non, tincidunt egestas enim. Nulla quis efficitur leo. Proin blandit, libero vitae dictum vehicula, odio lorem pharetra ex, vel placerat nibh mi a lacus. Curabitur vestibulum pharetra consectetur. Pellentesque sodales massa et ex dapibus, vel laoreet ipsum posuere. Cras imperdiet pulvinar dolor lobortis suscipit. Aenean quam dolor, faucibus id tellus non, sagittis lacinia nulla. Mauris at nisi a dui suscipit consectetur. Donec consectetur augue arcu, vitae malesuada massa dapibus sit amet. Vivamus faucibus eu justo ut mollis. Nunc risus nibh, sollicitudin sit amet erat eget, vulputate scelerisque massa. Pellentesque pulvinar cursus dui, in viverra libero ultrices ut. Phasellus ut feugiat diam, eu vulputate odio. Vestibulum elit ex, ornare ac ipsum at, congue ultrices sem. Donec libero elit, mollis vitae placerat faucibus, congue eu lorem. Phasellus tincidunt eros at consectetur luctus. Nulla id pretium purus. Etiam dapibus mattis justo, vel dictum purus suscipit sit amet. Quisque tincidunt purus nec mollis ullamcorper. Donec blandit leo dictum mauris blandit suscipit. Cras vel diam sed tellus convallis semper.
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@9NIKUNJ MANGE1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@3JNUKIN EGNAM2@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
