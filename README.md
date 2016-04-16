@@ -23,7 +23,7 @@ https://hadoopi.wordpress.com/2013/05/25/setup-maven-project-for-hadoop-in-5mn/<
 
 If you dont want to use maven download all the lib file and create one lib folder or you can you given link to download all dependences<br> 
 
-https://drive.google.com/file/d/0B69V9spmLE3RbTlmaTR4R3dtSjA/view <br>
+https://drive.google.com/file/d/0B69V9spmLE3RbTlmaTR4R3dtSjA/view?usp=sharing <br>
 
 In eclipse add all jar files to your lib folder or use build path.<br> 
 
